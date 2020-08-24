@@ -93,16 +93,56 @@ a:active {}
 
 hr{}
 
-input[type=number]{}
-input[type=number]:focus{}
+input[type=number]{   
+    /* Remove First */
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+input[type=number]:focus{
+    /* Remove First */
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
 
-input[type=text]{}
-input[type=text]:focus{}
+input[type=text]{
+    /* Remove First */
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+input[type=text]:focus{
+    /* Remove First */
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
 
-input[type=tel]{}
-input[type=tel]:focus{}
+input[type=tel]{
+    /* Remove First */
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+input[type=tel]:focus{
+    /* Remove First */
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
 
-input[type=email]{}
-input[type=email]:focus{}
+input[type=email]{
+    /* Remove First */
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+input[type=email]:focus{
+    /* Remove First */
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
 
 
